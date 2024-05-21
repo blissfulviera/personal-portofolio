@@ -405,7 +405,8 @@ span{
 
 .certificate-box p {
     font-size: 1.5em;
-    color: var(--text-color); 
+    color: var(--text-color);
+    text-align: justify;
 }
 
 .certificate-box img {
